@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeChat.WebApi", "WeChat.WebApi\WeChat.WebApi.csproj", "{2098C76A-C981-4A7B-B54C-10A48199578E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Model", "WebApi.Model\WebApi.Model.csproj", "{732DD91D-7711-4870-A314-758CAFD17032}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{DA1ECE4C-3057-438C-BA55-261811D76DDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{88EBD5B7-869A-46D1-9FA6-B3355E62A1BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bussiness", "Bussiness\Bussiness.csproj", "{9180AAF4-E199-4F1B-AD9C-A47C4206357A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiEnum", "WebApiEnum\WebApiEnum.csproj", "{2A018FCB-86E1-4805-8321-47B044EFBFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest", "MyTest\MyTest.csproj", "{B74CD8E7-8B7E-4B8D-884B-730A4488E5B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2098C76A-C981-4A7B-B54C-10A48199578E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2098C76A-C981-4A7B-B54C-10A48199578E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2098C76A-C981-4A7B-B54C-10A48199578E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2098C76A-C981-4A7B-B54C-10A48199578E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{732DD91D-7711-4870-A314-758CAFD17032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732DD91D-7711-4870-A314-758CAFD17032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732DD91D-7711-4870-A314-758CAFD17032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732DD91D-7711-4870-A314-758CAFD17032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1ECE4C-3057-438C-BA55-261811D76DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1ECE4C-3057-438C-BA55-261811D76DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1ECE4C-3057-438C-BA55-261811D76DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1ECE4C-3057-438C-BA55-261811D76DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EBD5B7-869A-46D1-9FA6-B3355E62A1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EBD5B7-869A-46D1-9FA6-B3355E62A1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EBD5B7-869A-46D1-9FA6-B3355E62A1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EBD5B7-869A-46D1-9FA6-B3355E62A1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9180AAF4-E199-4F1B-AD9C-A47C4206357A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9180AAF4-E199-4F1B-AD9C-A47C4206357A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9180AAF4-E199-4F1B-AD9C-A47C4206357A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9180AAF4-E199-4F1B-AD9C-A47C4206357A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A018FCB-86E1-4805-8321-47B044EFBFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A018FCB-86E1-4805-8321-47B044EFBFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A018FCB-86E1-4805-8321-47B044EFBFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A018FCB-86E1-4805-8321-47B044EFBFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74CD8E7-8B7E-4B8D-884B-730A4488E5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74CD8E7-8B7E-4B8D-884B-730A4488E5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74CD8E7-8B7E-4B8D-884B-730A4488E5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74CD8E7-8B7E-4B8D-884B-730A4488E5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1AFF2F-9E2C-428C-828A-75D48BAD8AC6}
+	EndGlobalSection
+EndGlobal
